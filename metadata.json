@@ -1,0 +1,8 @@
+{
+  "name": "LinguoFlow - AI Universal Translator",
+  "description": "A world-class translation application that supports text, voice, and image-based translation across all languages using Gemini AI.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
